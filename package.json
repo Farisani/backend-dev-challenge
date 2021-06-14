@@ -1,0 +1,19 @@
+{
+  "name": "dev-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farisani/backend-dev-challenge.git"
+  },
+  "author": "Farisani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farisani/backend-dev-challenge/issues"
+  },
+  "homepage": "https://github.com/Farisani/backend-dev-challenge#readme"
+}
